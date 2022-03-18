@@ -59,8 +59,8 @@ Q: xECS isn't here, why's that?
 A: Idk, ask about it in a new issue, it might be too niche, or something.
 
 
-[Leo<br/>ECS]: https://github.com/Leopotam/ecs
-[Leo<br/>EcsLite]: https://github.com/Leopotam/ecslite
+[Leo<br/>ECS]: https://github.com/LeoECSCommunity/ecs
+[Leo<br/>EcsLite]: https://github.com/LeoECSCommunity/ecslite
 [Entitas]: https://github.com/sschmid/Entitas-CSharp
 [Morpeh]: https://github.com/scellecs/morpeh
 [Default<br/>Ecs]: https://github.com/Doraku/DefaultEcs
